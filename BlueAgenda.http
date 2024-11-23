@@ -1,0 +1,6 @@
+@BlueAgenda_HostAddress = http://localhost:5122
+
+GET {{BlueAgenda_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
